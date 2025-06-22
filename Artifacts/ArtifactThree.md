@@ -16,7 +16,7 @@ plt.gca().invert_yaxis()
 plt.show()
 ```
 
-
+While working on this artifact I learned more about data mining and how it can be done with a MongoDB. This skill was something I had interest in learning but never got the opportunity to take the elective, so I wanted to take the time to go and learn more about it and apply that knowledge into my capstone project. My biggest challenge was trying to learn as much about data mining while also keeping focus on the project itself. There would be little point in going through and trying to learn the information without applying it so I had to be sure to keep myself in check and work and research appropriately as I did not have the luxury of time. By learning about the different ways I could query the database and use that information, I was able to learn more about how this particular way of data mining works. Feedback was similar to the other artifacts so I made sure to go back and comment on the sections of code to ensure that it would be easier to read. The artifact wasn’t necessarily improved, it was more that this enhancement was made to make information to the user clearer without changing the function of the artifact. This artifact demonstrates my ability to create a solution with new techniques and tools as well as designing solutions while managing trade-offs. It also partially shows the visual communications by showing the information from the database. This artifact does not show security as I made no changes to the mongoDB log-in information, and it doesn’t show any collaborative environments.
 
 
 ### [Link to Artifact Three Repository](https://github.com/mcandersonaj/CS499-Capstone/tree/main/Databases)
