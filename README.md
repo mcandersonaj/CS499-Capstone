@@ -4,7 +4,7 @@
 Test
 
 ## ePortfolio Links
-- Main page
+- [Main page](https://mcandersonaj.github.io/CS499-Capstone/)
 - Code Review
 - Artifact One
 - Artifact Two
