@@ -1,4 +1,4 @@
-Test2
+# Algorithms and Data Structure: Artifact 2 IT145
 
 ### [Link to Artifact Two Repository](https://github.com/mcandersonaj/CS499-Capstone/tree/main/Algorithms%20and%20Data%20Structure)
 
