@@ -1,4 +1,4 @@
-# Algorithms and Data Structure: Artifact 2 IT145
+# Algorithms and Data Structure: Artifact Two IT145
 
 This artifact is from IT145 and was created in June 2023. This artifact is a rescue animal training list done with array lists.The purpose of this assignment was to accept user input in the console to input animals that would be put into array lists and printed out based on certain criteria. The initial project accepted monkeys and dogs and worked with those two lists and printed out animals that finished training or the entire list.  
 
