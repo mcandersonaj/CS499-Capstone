@@ -1,5 +1,7 @@
 Test3
 
+### [Link to Artifact Three Repository](https://github.com/mcandersonaj/CS499-Capstone/tree/main/Databases)
+
 ## ePortfolio Links
 - [Main page](https://mcandersonaj.github.io/CS499-Capstone/)
 - [Code Review](https://mcandersonaj.github.io/CS499-Capstone/Artifacts/CodeReview)
