@@ -5,6 +5,11 @@ My name is AJ McAnderson and I have been a student at SNHU since 2023. I have be
 
 ## Self-Assessment
 
+### My Journey
+
+### My Artifacts
+
+
 ## ePortfolio Links
 - [Main page](https://mcandersonaj.github.io/CS499-Capstone/)
 - [Code Review](https://mcandersonaj.github.io/CS499-Capstone/Artifacts/CodeReview)
